@@ -1,3 +1,5 @@
+#黄金分割法、二分割法、ニュートン法による最適化問題
+
 import math
 def No_1(x):
     return (1/x + math.exp(x))
